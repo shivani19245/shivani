@@ -1,3 +1,2 @@
 # shivani
-This is my first trial Repository
-THIS IS MY FIRST COMMIT
+this is my first trial repository
